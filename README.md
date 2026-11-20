@@ -1,0 +1,1 @@
+This program searches for a word entered in the required field and displays the number of matches found (it works only with text files). There are many drawbacks; for example, if you enter letters, the program will treat words as individual letters until it finds a match, which is theoretically incorrect, but I decided to leave everything as it is
